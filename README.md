@@ -10,4 +10,25 @@ Samuel John
 
 🎓 Bachelor's degree in Agriculture from [University Name].
 
-📫 Reach me at [Your Email] or [Your Website/LinkedIn/GitHub] to connect and collaborate.
+📫 Reach me at samueljohn3999@gmail.com 2348138133145 to connect and collaborate.
+
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://th.bing.com/th/id/OIP.vtD4hW6RoqnQ_ijsd5uNDwHaDt?pid=ImgDet&rs=1">
+ <source media="(prefers-color-scheme: light)" srcset="https://th.bing.com/th/id/OIP.TV5bcyupGDmM_xQrtX63NwHaEK?pid=ImgDet&rs=1">
+ <img alt="Technology in Agriculture" src="https://www.cut.ac.zw/cutlib/img/1/agric-science.jpg">
+</picture>
+
+<details open>
+  <summary>Currently learning the following Languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| C|
+|     2| Python    |
+|     3| JavaScript       |
+
+</details>
+---
+> for the things we have to learn before we can do them, we learn by doing them 
+  - Aristotle
