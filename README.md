@@ -34,13 +34,4 @@ Samuel John
 ---
 > for the things we have to learn before we can do them, we learn by doing them 
   - Aristotle
-    
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e89c286f-fa3a-4b99-900b-f0c335758355/653f66b1-fcec-4d24-bacf-46b24121490d.png"/></a>
- 
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e89c286f-fa3a-4b99-900b-f0c335758355/da24378d-bc5d-4a16-bbdd-a20c8f0adc3c.png" /></a>
- 
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e89c286f-fa3a-4b99-900b-f0c335758355/2565cfe1-36ed-406d-8bf9-8e9ef02f20fd.png" /></a>
- 
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e89c286f-fa3a-4b99-900b-f0c335758355/d98cd685-d5eb-4aed-badb-89512a1418bf.png" /></a>
- 
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e89c286f-fa3a-4b99-900b-f0c335758355/323a465b-42bb-4437-b913-6303a5369bb5.png" /></a>
+   
