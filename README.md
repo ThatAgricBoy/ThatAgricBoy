@@ -35,6 +35,7 @@ Samuel John
 > for the things we have to learn before we can do them, we learn by doing them 
   - Aristotle
    
+<figure><embed src="https://wakatime.com/share/@e89c286f-fa3a-4b99-900b-f0c335758355/fc88b209-befe-41d4-9260-bb1c83fb3db2.svg"></embed></figure>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thatagricboy&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thatagricboy&langs_count=5&theme=tokyonight)]()
